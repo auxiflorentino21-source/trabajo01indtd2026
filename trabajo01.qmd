@@ -2,12 +2,8 @@
 title: "Trabajo 01"
 author: "Florentino García, M.ªAuxiliadora"
 format:
-  html:
-    toc: true
-    code-fold: false
-  pdf:
-    toc: true
-    number-sections: true
+  html: default
+  typst: default
 ---
 
 # Problema 1: Teoría de la Decisión bajo Incertidumbre
